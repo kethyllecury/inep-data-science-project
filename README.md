@@ -15,3 +15,13 @@ As principais etapas do projeto são:
 - Pandas
 - OpenPyXL 
 - VSCode ou Jupyter
+
+# Dashboard Interativo
+O projeto inclui um dashboard interativo que permite a visualização dos principais indicadores:
+
+- Médias por área de avaliação
+- Distribuição de conceitos por instituição
+- Comparações entre categorias administrativas e modalidades de ensino
+
+## Acesso ao Dashboard
+*[(Substitua o link abaixo pelo link real quando o dashboard estiver hospedado)](https://app.fabric.microsoft.com/groups/me/reports/025a2f0d-f7fd-4d20-b7f0-d7f65074b61f/d82355f6b5d307ad6980?experience=fabric-developer)*
